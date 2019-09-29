@@ -1,7 +1,7 @@
 # The difference between text editor
 
-# choosing a text editor ends up being a very personal choice, as personal as the sports teams you support.
-# some text editing software comes with features that other text editing software does not. But for the most part, they’re all pretty similar.
+ choosing a text editor ends up being a very personal choice, as personal as the sports teams you support.
+ some text editing software comes with features that other text editing software does not. But for the most part, they’re all pretty similar.
 # Can you use the text editor that you love
 
 ![](https://web.archive.org/web/20190113051315im_/https://cdn-images-1.medium.com/max/1600/1*qNzmbQa2wkStPLjHYmhn3g.jpeg)
