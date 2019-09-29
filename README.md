@@ -1,3 +1,5 @@
+# hi
+# my name is jumana hawamdeh
 # grow mindset
 
 ## Your consistent beliefs will prevent you from making any positive change. If you have an attribute that you think you can't change, such as your intelligence, weight, or bad habits, you will avoid situations that may be uncomfortable or that you think are futile
