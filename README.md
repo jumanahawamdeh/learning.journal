@@ -7,3 +7,5 @@
 ![](https://www.excelsior.edu/wp-content/uploads/sites/46/2017/03/Growth-Mindset-e1565799493145.png)
 
 [grow mindset](https://www.ta3allamdz.com/2018/04/17-growth-mindset.html)
+
+#thank you
