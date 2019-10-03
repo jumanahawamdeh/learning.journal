@@ -10,9 +10,9 @@
 
 [grow mindset](https://www.ta3allamdz.com/2018/04/17-growth-mindset.html)
 
-| Tables        | Are                       |
-| read2 |   [](https://jumanahawamdeh.github.io/learning.journal/read2)
-  read1     [](https://jumanahawamdeh.github.io/learning.journal/read1)
-  read4     [](https://jumanahawamdeh.github.io/learning.journal/read4) 
-  
+| Tables        | Are         |
+| read2  |  [read2](read.md)  |
+| read1 |  [read1](read.md) |
+|  read4 |  [read4](read.md) |
+
 *thank you*
