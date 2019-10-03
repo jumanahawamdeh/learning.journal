@@ -11,10 +11,11 @@
 [grow mindset](https://www.ta3allamdz.com/2018/04/17-growth-mindset.html)
 
 | Tables        | Are                       |
-| ------------- |:-------------------------:|
-| mindset       | [mindset](mindset.md)     |
-| juornala      | [juornala](journala.md)   |
-| markdown      | [markdown](markdown.md)  |
+| read2 |   [read2](https://jumanahawamdeh.github.io/learning.journal/read2)
+| mindset| [mindset](https://jumanahawamdeh.github.io/learning.journal/)  
+
+| markdown      | [markdown](https://jumanahawamdeh.github.io/learning.journal/read1)  |
+
 
 
 *thank you*
