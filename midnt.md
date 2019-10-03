@@ -11,7 +11,7 @@
 [grow mindset](https://www.ta3allamdz.com/2018/04/17-growth-mindset.html)
 
 | Tables        | Are         |
-| read2  |  [read2](read2.md)  |
+| read2  |  [read2](https://jumanahawamdeh.github.io/learning.journal/read2)  |
 | read1 |  [read1](read1.md) |
 |  read4 |  [read4](read4.md) |
 
